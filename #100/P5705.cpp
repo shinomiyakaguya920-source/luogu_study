@@ -9,4 +9,4 @@ int main()
     cout << d << dot << c << b << a;
 
     return 0;
-}
+}//投机取巧法（😓
